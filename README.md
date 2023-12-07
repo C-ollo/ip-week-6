@@ -8,7 +8,7 @@ An application that helps Rangers track animals in the wild.
 
 ## 👷 Author
 
-Sophia Chisiya
+Collins Kimutai
 
 ## 🔨 Setup Instructions
 
@@ -47,7 +47,7 @@ mvn exec:java
 - PostgreSQL
 
 ## 👨‍💻 Contact
-- totalsophie@gmail.com
+- Collinskimutai72@gmail.com
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
